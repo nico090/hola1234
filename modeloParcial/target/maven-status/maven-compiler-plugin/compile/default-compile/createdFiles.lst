@@ -1,0 +1,8 @@
+modelo\Automovil.class
+servicio\PruebaVehiculo.class
+modelo\VehiculoTerrestre.class
+modelo\Colores.class
+excepciones\ExcepcionTipoVehiculoInvalido.class
+modelo\Moto.class
+excepciones\ExcepcionAtributoInvalido.class
+modelo\Camion.class
