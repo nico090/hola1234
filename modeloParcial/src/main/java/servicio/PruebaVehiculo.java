@@ -3,7 +3,6 @@
  */
 
 package servicio;
-
 import excepciones.ExcepcionAtributoInvalido;
 import excepciones.ExcepcionTipoVehiculoInvalido;
 import modelo.Moto;
